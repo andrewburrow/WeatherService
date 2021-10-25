@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "+t+n+PBj92yL3x62Ld20rR4VTvWX0K4CSsFL2FZHYzUI2zrriq3VNrvXPNUPPDny9AWe0RakRyQiWY1XHTfmyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WeatherServiceClient\\WeatherServiceClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.20\\microsoft.extensions.configuration.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.20\\microsoft.extensions.configuration.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.20\\microsoft.extensions.configuration.binder.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.20\\microsoft.extensions.configuration.fileextensions.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.20\\microsoft.extensions.configuration.json.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.20\\microsoft.extensions.fileproviders.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.20\\microsoft.extensions.fileproviders.physical.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.20\\microsoft.extensions.filesystemglobbing.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.20\\microsoft.extensions.primitives.3.1.20.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.identity.client\\4.37.0\\microsoft.identity.client.4.37.0.nupkg.sha512",
+    "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

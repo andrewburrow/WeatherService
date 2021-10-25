@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/YXVJLW3hUUW0TPFuHbAYZox/pQDnYEJHab6uM47AHcQvE4kUIu5DqB+LMNS/5Tjkv1XuBcQqrTp2Y+1D1Yngw==",
+  "dgSpecHash": "L5aX3rvvPS1kaQkmokn+SftFgAMAaZgwa7Lc3PLcNvrgfzXCKU+bfUz/evp9c7pqFJS/SJLQuLm5aZTsU2CSrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WebApiMWIdPlatform\\WeatherServiceApi.csproj",
+  "projectFilePath": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WeatherServiceApi\\WeatherServiceApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\azure.core\\1.14.0\\azure.core.1.14.0.nupkg.sha512",
     "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\azure.extensions.aspnetcore.configuration.secrets\\1.2.1\\azure.extensions.aspnetcore.configuration.secrets.1.2.1.nupkg.sha512",

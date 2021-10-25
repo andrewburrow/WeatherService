@@ -1,0 +1,203 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherServiceClient/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.20",
+          "Microsoft.Extensions.Configuration.Binder": "3.1.20",
+          "Microsoft.Extensions.Configuration.Json": "3.1.20",
+          "Microsoft.Identity.Client": "4.37.0"
+        },
+        "runtime": {
+          "WeatherServiceClient.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration/3.1.20": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.20"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.20": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.20"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/3.1.20": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.20"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.FileExtensions/3.1.20": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.20",
+          "Microsoft.Extensions.FileProviders.Physical": "3.1.20"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Json/3.1.20": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.20",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.1.20"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/3.1.20": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.20"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Physical/3.1.20": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.1.20",
+          "Microsoft.Extensions.FileSystemGlobbing": "3.1.20"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileSystemGlobbing/3.1.20": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.20": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47203"
+          }
+        }
+      },
+      "Microsoft.Identity.Client/4.37.0": {
+        "runtime": {
+          "lib/netcoreapp2.1/Microsoft.Identity.Client.dll": {
+            "assemblyVersion": "4.37.0.0",
+            "fileVersion": "4.37.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherServiceClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qN871hvjHs9pqVW1E8dXzww3hDXmAtSC0Mjvht+2choJN+KKLL/mQpX2Egkp9Wvox005bfmBrFW7svDDTjmuoQ==",
+      "path": "microsoft.extensions.configuration/3.1.20",
+      "hashPath": "microsoft.extensions.configuration.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TpevBA1qF8XuuP5md8As81SHfhtAsVocH/i76F1WjYoOBpA9nwC3dmpN/YDi89efRzU6qk5AYvZ1ldCONtAYSQ==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.20",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Binder/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eS6Q5oRKmBQKlgIjSXmgaF2jwSAuii+3UjTSN4jI2LH1N0utPNgZNtnOVXDU2tZiUOtQuAROBb8PZKgHgIgsYQ==",
+      "path": "microsoft.extensions.configuration.binder/3.1.20",
+      "hashPath": "microsoft.extensions.configuration.binder.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.FileExtensions/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qqfD7VfSDds340cuVggQQGlSoVuMYAtW6UIczf3UKV8CMfnP7CRc9mjlVl4R5/Jovbd5vkl56E6lg03W/ZWCtA==",
+      "path": "microsoft.extensions.configuration.fileextensions/3.1.20",
+      "hashPath": "microsoft.extensions.configuration.fileextensions.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Json/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sNliq6gPP03/lC6dbtBv5EuMX8bnWBOsSaK6qg/TbPtZIV/i8RwxYWYW0Y+koepeLEVae3wtcUBX7sQfaCw3LQ==",
+      "path": "microsoft.extensions.configuration.json/3.1.20",
+      "hashPath": "microsoft.extensions.configuration.json.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gR0rfQg7a1DJMlPDRii4fypu/M5tQ/0pf5mGF4jotcTCyT71wCwuONm1IruDJi+rWa4zPBPovRjdGa0Yx4Lxyg==",
+      "path": "microsoft.extensions.fileproviders.abstractions/3.1.20",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Physical/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bewykuIeGb6Ro2Vq2/F1rq5jhmCsocDlgEKg2tMThsnfABXjlJbOXyjJl2GztXhtobsDpuOiWH48MM7qSONNtQ==",
+      "path": "microsoft.extensions.fileproviders.physical/3.1.20",
+      "hashPath": "microsoft.extensions.fileproviders.physical.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileSystemGlobbing/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2Sz4v3iuv1ZXVxz2/SfdaDVsfbeHirmlFp2zcguyS9IHh2ZxnCzMOLjvmkf+vt/XFRQaIFIDepushHdkif4xsQ==",
+      "path": "microsoft.extensions.filesystemglobbing/3.1.20",
+      "hashPath": "microsoft.extensions.filesystemglobbing.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RHHWUHzW8y+dyNBIBmo2EQbpCC6xFQcFMpLhNcpzw3zP0rxJdhmTTdy5eXvhlkNi3vqM4Af5Qqb5xgYwqaoaJQ==",
+      "path": "microsoft.extensions.primitives/3.1.20",
+      "hashPath": "microsoft.extensions.primitives.3.1.20.nupkg.sha512"
+    },
+    "Microsoft.Identity.Client/4.37.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r6GCnNOVx/RWyqYvpjNhNXAAip7pgR/ygaUHe4YXlVxZ/ePgN5zf4LB1wZ/dVYfUM6es+QdjK7HSkgpNAPplcw==",
+      "path": "microsoft.identity.client/4.37.0",
+      "hashPath": "microsoft.identity.client.4.37.0.nupkg.sha512"
+    }
+  }
+}

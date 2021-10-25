@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WebApiMWIdPlatform\\WeatherServiceApi.csproj": {}
+    "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WeatherServiceApi\\WeatherServiceApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WebApiMWIdPlatform\\WeatherServiceApi.csproj": {
+    "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WeatherServiceApi\\WeatherServiceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WebApiMWIdPlatform\\WeatherServiceApi.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WeatherServiceApi\\WeatherServiceApi.csproj",
         "projectName": "WeatherServiceApi",
-        "projectPath": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WebApiMWIdPlatform\\WeatherServiceApi.csproj",
+        "projectPath": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WeatherServiceApi\\WeatherServiceApi.csproj",
         "packagesPath": "C:\\Users\\Andrew.Burrow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WebApiMWIdPlatform\\obj\\",
+        "outputPath": "C:\\Users\\Andrew.Burrow\\source\\repos\\WebApiMWIdPlatform\\WeatherServiceApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrew.Burrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
