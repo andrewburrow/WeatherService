@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-WebApiMWIdPlatform-9818A467-509E-41A7-ADB8-64CB9ADF242C</UserSecretsId>
+    <WebProject_DirectoryAccessLevelKey>0</WebProject_DirectoryAccessLevelKey>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Extensions.AspNetCore.Configuration.Secrets" Version="1.2.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.AzureAD.UI" Version="3.1.20" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.19.0-preview" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Roles\" />
+  </ItemGroup>
+
+</Project>
